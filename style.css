@@ -103,6 +103,9 @@ section {
   font-size: 0.9rem;
   color: #0ba376;
 }
+.linkedin-info a {
+  color: var(--hover-color);
+}
 .btn-box {
   display: flex;
   justify-content: space-between;
