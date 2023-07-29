@@ -27,11 +27,15 @@ body {
   color: var(--text-color);
 }
 header {
+  position: sticky;
   display: flex;
+  top: 0;
   padding: 20px 10%;
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  background-color: rgba(24, 24, 24, 0.5);
+  z-index: 9999;
 }
 .logo {
   font-size: 26px;
