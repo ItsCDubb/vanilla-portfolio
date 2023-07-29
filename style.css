@@ -265,6 +265,7 @@ a.btn:nth-child(2):hover {
   align-items: center;
   grid-gap: 2em;
   background: var(--secondary-bg-color);
+  height: 100vh;
 }
 .about .img-about {
   position: relative;
@@ -358,6 +359,7 @@ a.btn:nth-child(2):hover {
   align-items: center;
   flex-wrap: wrap;
   grid-gap: 2rem;
+  height: 100vh;
 }
 .section-services .service-box {
   flex: 1 1 18rem;
